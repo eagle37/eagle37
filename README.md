@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @eagle37
+- 👀 I’m interested in programming and Cricket
+- 🌱 I’m currently learning Python
+- 📫 How to reach me https://discord.gg/spyop

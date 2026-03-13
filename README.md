@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔧 Backend developer working with Python, REST APIs, SQL, JSON, Authentication<br><br>🧠 Currently learning Data Structures & Algorithms and AI/ML<br><br>🌐 Comfortable with backend architecture and API-driven systems<br><br>💻 Basic experience with C, Java, HTML, CSS, JavaScript<br><br>🏏 Cricketer when I'm not debugging code
+🧑Prateek<br><br>🔧 Backend developer working with Python, REST APIs, SQL, JSON, Authentication<br><br>🧠 Currently learning Data Structures & Algorithms and AI/ML<br><br>🌐 Comfortable with backend architecture and API-driven systems<br><br>💻 Basic experience with C, Java, HTML, CSS, JavaScript<br><br>🏏 Cricketer when I'm not debugging code
 
 
 ## 🌐 Socials:
